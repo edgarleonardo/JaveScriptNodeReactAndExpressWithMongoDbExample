@@ -1,0 +1,9 @@
+{
+  "name": "react-and-express-example",
+  "version": "0.0.0",
+  "description": "ReactAndExpressExample",
+  "main": "server.js",
+  "author": {
+    "name": "Edgar Perez"
+  }
+}
